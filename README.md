@@ -1,2 +1,3 @@
 # MachineLearning
-This is a repository containing multiple exercises related to python, numpy, matplotlib, pandas, pytorch,  and building other algorithms by doing exercises
+
+This repository will contain data analysis and machine learning projects done by me.
